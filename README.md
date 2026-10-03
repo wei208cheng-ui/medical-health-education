@@ -9,7 +9,11 @@ medical-health-education
 │
 ├── diabetes.html
 │
-└── images
-pain control
+└── pain control
 meridian therapy
 urticaria
+energetic therapy
+metabolism monitor and help
+chronic cough
+chronic atopy and itching of skin
+autonomous nervous system abnormaly
